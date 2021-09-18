@@ -1,0 +1,4 @@
+pytelegrambotapi
+requests
+bs4
+spotipy
